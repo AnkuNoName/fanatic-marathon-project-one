@@ -1,1 +1,1 @@
-# fanatic-marathon-day-one
+# fanatic-marathon-project-one
